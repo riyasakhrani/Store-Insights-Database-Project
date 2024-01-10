@@ -1,2 +1,4 @@
 # Store-Insights-Database-Project
 This project conducts sales and inventory analysis of a fictional coffee shop using SQL. This project aims to showcase my knowledge and understanding of SQL by performing queries that output key data for the store owner and employees. The database will allow the owner/employees to retrieve data to answer business-related queries. For example, they can use data from sales receipts, pastry inventory, and sales targets to calculate the stores' performance and optimize inventory levels. With the help of this database, the owner can see how to allocate resources better and make informed business decisions.
+
+To visualize some of the sales insights, I have created an interactive dashboard on Tableau: https://public.tableau.com/views/CoffeeShopProject_17000706333010/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
